@@ -1,1 +1,4 @@
 test no fetch
+you must git fetch origin. if not, git checkout -b nofetch origin/nofetch command error!
+error info:
+fatal: 'origin/nofetch' is not a commit and a branch 'nofetch' cannot be created from it
